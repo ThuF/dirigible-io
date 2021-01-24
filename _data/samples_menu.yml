@@ -1,7 +1,7 @@
 name: Samples
 navbar: Samples
 icon: fa-question-circle
-link: ../samples/index.html
+link: /dirigible-io/samples/index.html
 navigation: 
   - name: Simple Samples
     icon: fa fa-info
