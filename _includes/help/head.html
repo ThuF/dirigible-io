@@ -43,14 +43,14 @@
                 <a href="#" class="dropdown-toggle">{{ menu.name }} <b class="caret"></b></a>
                 <ul class="dropdown-menu">{% for p in site.pages %}{% if p.group == menu.group %}
                   <li class="{% if p.url == page.url %} active{% endif %}">
-                    <a href="https://thuf.github.io/dirigible-io/{{ p.url }}"> <i class="fa {{ p.icon }}"></i>
+                    <a href="{{ p.url }}"> <i class="fa {{ p.icon }}"></i>
                       {{ p.title }}
                     </a>
                   </li>
                   {% endif %}{% endfor %}
                 </ul>
               </li>{% else %}<li class="side-item{% if menu.name == page.title %} active{% endif %}">
-                  <a href="https://thuf.github.io/dirigible-io/{{ menu.url }}"> <i class="fa {{ menu.icon }}"></i>
+                  <a href="{{ menu.url }}"> <i class="fa {{ menu.icon }}"></i>
                       {{ menu.name }}
                     </a>
               </li>{% endif %}{% endfor %}
