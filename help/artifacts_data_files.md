@@ -1,6 +1,9 @@
 ---
 layout: help
-title: Data Files
+title: Data Files 1234
+redirect_from:
+  - /artifacts/data-files/
+
 icon: fa-code
 ---
 
