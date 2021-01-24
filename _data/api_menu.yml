@@ -1,7 +1,7 @@
 name: API
-navbar: Samples
+navbar: API
 icon: fa-gift
-link: ../samples/index.html
+link: ../api/index.html
 navigation: 
   - name: console <sup>2,</sup><sup>3,</sup><sup>4</sup>
     icon: fa fa-caret-right

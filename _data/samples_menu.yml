@@ -1,7 +1,7 @@
 name: Samples
-navbar: Help
+navbar: Samples
 icon: fa-question-circle
-link: ../help/index.html
+link: ../samples/index.html
 navigation: 
   - name: Simple Samples
     icon: fa fa-info
