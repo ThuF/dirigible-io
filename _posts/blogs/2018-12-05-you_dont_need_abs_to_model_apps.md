@@ -35,7 +35,7 @@ This is what the flow of a Print on Demand business process looks like at the ba
 
 ![BPM-PoD-UI](/img/posts/20181205/bpm-pod-ui.png){: .img-responsive }
 
-By the way, this Print on Demand view is integrated in the marketplace thanks to the lightweight extensibility concept built in Dirigible. See [Dirigible - Extend, Embed, Reuse](http://www.dirigible.io/blogs/2018/11/09/dirigible_extend_embed_reuse.html).
+By the way, this Print on Demand view is integrated in the marketplace thanks to the lightweight extensibility concept built in Dirigible. See [Dirigible - Extend, Embed, Reuse](https://thuf.github.io/dirigible-io/blogs/2018/11/09/dirigible_extend_embed_reuse.html).
 
 Right now, if there was a book on developing business applications with the Eclipse Dirigible Web IDE, I’d be the first one to purchase it. While I’m waiting though, I’ll keep on exploring the ins and outs of this cool basket of modern tools for developers of business applications. The EDM and the BPM tools are just the beginning, I’m sure of it!
 

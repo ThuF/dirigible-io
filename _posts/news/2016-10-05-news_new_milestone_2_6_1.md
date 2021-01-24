@@ -18,10 +18,10 @@ New version [2.6.161005-M1](http://download.eclipse.org/dirigible/drops/M2016100
 
 #### Blogs
 
-* [How to Run Dirigible Anywhere - Microsoft Azure?](http://www.dirigible.io/blogs/2016/08/09/how-to-run-dirigible-anywhere-microsoft-azure.html)
-* [Summer Practice in SAP](http://www.dirigible.io/blogs/2016/08/17/sap-summer-practice.html)
-* [How to Run Dirigible Anywhere - Microsoft Azure - Part II?](http://www.dirigible.io/blogs/2016/08/18/how-to-run-dirigible-anywhere-microsoft-azure-part-2.html)
-* [The Java-saurus](http://www.dirigible.io/blogs/2016/09/12/the-java-saurus.html)
+* [How to Run Dirigible Anywhere - Microsoft Azure?](https://thuf.github.io/dirigible-io/blogs/2016/08/09/how-to-run-dirigible-anywhere-microsoft-azure.html)
+* [Summer Practice in SAP](https://thuf.github.io/dirigible-io/blogs/2016/08/17/sap-summer-practice.html)
+* [How to Run Dirigible Anywhere - Microsoft Azure - Part II?](https://thuf.github.io/dirigible-io/blogs/2016/08/18/how-to-run-dirigible-anywhere-microsoft-azure-part-2.html)
+* [The Java-saurus](https://thuf.github.io/dirigible-io/blogs/2016/09/12/the-java-saurus.html)
 
 #### Operational
 

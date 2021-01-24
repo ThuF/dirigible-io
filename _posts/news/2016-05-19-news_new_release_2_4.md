@@ -18,7 +18,7 @@ New version [2.4.160519-R](http://download.eclipse.org/dirigible/drops/R-2.4-201
 
 #### Blogs
 
-* [WebSockets and Equinox OSGi in a Servlet Container](http://www.dirigible.io/blogs/2016/05/19/blogs_web_sockets_and_osgi_in_servlet_container.html)
+* [WebSockets and Equinox OSGi in a Servlet Container](https://thuf.github.io/dirigible-io/blogs/2016/05/19/blogs_web_sockets_and_osgi_in_servlet_container.html)
 
 #### Operational
 

@@ -133,7 +133,7 @@ Now let's see how you can **"Develop from Mobile for Mobile"** with Dirigible.
 Conclusion
 ---
 
-We've seen that a cross platform (iOS and Android) native mobile applications can be developed only with the help of a web browser and nothing more. The integration between <a href="http://www.dirigible.io/" target="_blank">Dirigible</a> and <a href="https://tabrisjs.com" target="_blank">Tabris.js</a> enables the developers to reach all their customers and make changes to the product with a **"zero time to market"** speed.
+We've seen that a cross platform (iOS and Android) native mobile applications can be developed only with the help of a web browser and nothing more. The integration between <a href="https://thuf.github.io/dirigible-io/" target="_blank">Dirigible</a> and <a href="https://tabrisjs.com" target="_blank">Tabris.js</a> enables the developers to reach all their customers and make changes to the product with a **"zero time to market"** speed.
 
 The bottom line is this:
 **"By teaching ourselves to look through the lens of the theory to the future, we can actually see the future very clearly!"**

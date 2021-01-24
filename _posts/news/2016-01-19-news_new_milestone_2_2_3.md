@@ -16,10 +16,10 @@ New Milestone [2.2.160119-M3](https://wiki.eclipse.org/Dirigible/Downloads/2.2.1
 
 #### Blogs
 
-* How to install Dirigible on SAP HANA Cloud Platform [tutorial](http://www.dirigible.io/blogs/2015/12/17/blogs_how_to_install_dirigible_on_sap_hana_cloud_platform.html)
-* Groovy is back [developer tutorial](http://www.dirigible.io/blogs/2015/12/21/blogs_groovy_is_back.html)
-* BYODS (Bring Your Own Data Source) in Dirigible I [developer tutorial](http://www.dirigible.io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html)
-* BYODS (Bring Your Own Data Source) in Dirigible II [developer tutorial](http://www.dirigible.io/blogs/2016/01/11/blogs_dirigible_custom_ds_2.html)
+* How to install Dirigible on SAP HANA Cloud Platform [tutorial](https://thuf.github.io/dirigible-io/blogs/2015/12/17/blogs_how_to_install_dirigible_on_sap_hana_cloud_platform.html)
+* Groovy is back [developer tutorial](https://thuf.github.io/dirigible-io/blogs/2015/12/21/blogs_groovy_is_back.html)
+* BYODS (Bring Your Own Data Source) in Dirigible I [developer tutorial](https://thuf.github.io/dirigible-io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html)
+* BYODS (Bring Your Own Data Source) in Dirigible II [developer tutorial](https://thuf.github.io/dirigible-io/blogs/2016/01/11/blogs_dirigible_custom_ds_2.html)
 
 #### Operational
 

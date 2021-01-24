@@ -5,7 +5,7 @@ author: georgi.pavlov
 
 Dirigible supports multiple database products by means of dialect adapters that can be used to extend the support to new ones
 
-In the previous [Part I](http://www.dirigible.io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html) of our series, dedicated to the new multiple custom data sources feature, we introduced you to the routines required to setup a new custom data source representing one of the database brands that Dirigible supports out-of-the-box, and use it. In this Part II of the series we are going to explore what it takes to onboard a new, not yet supported database and make use of data sources configured for it, as discussed in [Part I](http://www.dirigible.io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html).
+In the previous [Part I](https://thuf.github.io/dirigible-io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html) of our series, dedicated to the new multiple custom data sources feature, we introduced you to the routines required to setup a new custom data source representing one of the database brands that Dirigible supports out-of-the-box, and use it. In this Part II of the series we are going to explore what it takes to onboard a new, not yet supported database and make use of data sources configured for it, as discussed in [Part I](https://thuf.github.io/dirigible-io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html).
 
 One of the setup steps requires a minimal development and integration effort and in this Part II, we explore in details this particular task that is necessary to accomplish the integration of a new data source kind in Dirigible. It is a one-time job per database product that can then be reused for any concrete instance.
 
@@ -15,12 +15,12 @@ Part II: Extending supported databases for custom data sources
 
 The relational database world enjoy the standard query language SQL for ages. However, database systems are often not entirely compliant with the standard. For example, it happens that they implement subset or extensions of it and ultimately end up with *variants* of SQL. We call these variants database (SQL) *dialects*. An optimal and correct use of a database requires to take this into account. This is why Dirigible and alike tools need to ‘know’ dialects to be able to truly support the corresponding database. And since the list of databases and applicable dialects out there is quite big, and it grows, it is reasonable to support some sensible, popular minimum of these and provide a mechanism to extend the support.
 
-The databases that are currently supported in Dirigible (in version 2.2 M3) are MySQL, PostgreSQL, Derby, SAPDB, SAP HANA DB, Sybase and MongoDB. Dirigible speaks their dialects already and you can create custom data sources configured for running instances of these databases as discussed in [Part I](http://www.dirigible.io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html). Let us now explore what is how to extend this list to support also [H2](http://www.h2database.com/) database and be able to create custom data sources for it too.
+The databases that are currently supported in Dirigible (in version 2.2 M3) are MySQL, PostgreSQL, Derby, SAPDB, SAP HANA DB, Sybase and MongoDB. Dirigible speaks their dialects already and you can create custom data sources configured for running instances of these databases as discussed in [Part I](https://thuf.github.io/dirigible-io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html). Let us now explore what is how to extend this list to support also [H2](http://www.h2database.com/) database and be able to create custom data sources for it too.
 
 Hitting the wall
 ----
 
-Let us first try to employ the routine from [Part I](http://www.dirigible.io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html) with H2 and see what happens.
+Let us first try to employ the routine from [Part I](https://thuf.github.io/dirigible-io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html) with H2 and see what happens.
 
 Step 1: Provision the drivers
 ----

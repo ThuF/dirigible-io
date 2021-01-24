@@ -17,7 +17,7 @@ New Milestone [2.2.151217](https://wiki.eclipse.org/Dirigible/Downloads/2.2.1512
 * Hiding Activate (sandboxing) functionality by default
 * Bugfixes and Refactoring...
 
-Remote debugging Dirigible source code [developer tutorial](http://www.dirigible.io/blogs/2015/12/10/blogs_dirigible_remote_debugging.html).
+Remote debugging Dirigible source code [developer tutorial](https://thuf.github.io/dirigible-io/blogs/2015/12/10/blogs_dirigible_remote_debugging.html).
 
 The full list of bug-fixes and enhancements can be found [here](https://bugs.eclipse.org/bugs/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&classification=ECD&columnlist=product%2Ccomponent%2Cassigned_to%2Cbug_status%2Cresolution%2Cshort_desc%2Cchangeddate%2Cversion%2Ctarget_milestone&known_name=Dirigible%202.2.M2&list_id=13453830&product=Dirigible&query_based_on=Dirigible%202.2.M2&query_format=advanced&target_milestone=2.2.M2&version=2.2).
 

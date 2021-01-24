@@ -26,7 +26,7 @@ In this post, we will emphasize on the improved CI process and the scenarios it 
 ![Custom-Dirigible-Stack](/img/posts/20181109/Custom-Dirigible-Stack.png){: .img-responsive }
 
 Building a custom Dirigible stack is the second-best option to run in production (if the pre-built releases don't fit the project needs).
-The [Helium Custom Stack](http://www.dirigible.io/samples/tutorial_helium_custom_stack.html) tutorial explores in detail all aspects of building a custom Dirigible stack:
+The [Helium Custom Stack](https://thuf.github.io/dirigible-io/samples/tutorial_helium_custom_stack.html) tutorial explores in detail all aspects of building a custom Dirigible stack:
 1. Setting up maven project(s) layout
 2. Building WebJar(s)
 3. Exposing an Enterprise JavaScript API (both Java facade and JavaScript API)

@@ -169,7 +169,7 @@ References
 ---
 
 - Project Home
-[http://www.dirigible.io](http://www.dirigible.io)
+[https://thuf.github.io/dirigible-io](https://thuf.github.io/dirigible-io)
 
 - Trial Instance
 [http://trial.dirigible.io](http://trial.dirigible.io)

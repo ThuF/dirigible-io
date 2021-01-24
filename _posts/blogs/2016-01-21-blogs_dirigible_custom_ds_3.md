@@ -5,9 +5,9 @@ author: georgi.pavlov
 
 Dirigible welcomes Mongo DB onboard! Starting with version 2.2 Mongo DB is supported out-of-the-box
 
-In previous [blogs](http://www.dirigible.io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html) in the "BYODS in Dirigible" series we explored how data sources are integrated in general with most examples focusing on relational databases as options. But what about [NoSQL](https://en.wikipedia.org/wiki/NoSQL)?
+In previous [blogs](https://thuf.github.io/dirigible-io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html) in the "BYODS in Dirigible" series we explored how data sources are integrated in general with most examples focusing on relational databases as options. But what about [NoSQL](https://en.wikipedia.org/wiki/NoSQL)?
 
-Dirigible welcomes [Mongo DB](https://www.mongodb.org/) onboard! Starting with version 2.2 Mongo DB is supported out-of-the-box. You can explore it in the IDE and develop scripting services for it. Taking advantage of NoSQL document storage is now an entirely viable option. This is the first stage of our roadmap for onboarding NoSQL development. It uses JDBC as standard communication protocol and API. We are well aware that it is not native to NoSql development and is rather a “quick way in”. On next stage, we plan to explore the options to provision [Apache TinkerPop](https://tinkerpop.incubator.apache.org/) as a well-recognized standard Graph API (to which Mongo DB also complies) to scripting services via the [Injected API](http://www.dirigible.io/help/api.html). We shall seek also for convenient ways to provide access to native Graph APIs of NoSql data stores with all pros and cons that go along with that.
+Dirigible welcomes [Mongo DB](https://www.mongodb.org/) onboard! Starting with version 2.2 Mongo DB is supported out-of-the-box. You can explore it in the IDE and develop scripting services for it. Taking advantage of NoSQL document storage is now an entirely viable option. This is the first stage of our roadmap for onboarding NoSQL development. It uses JDBC as standard communication protocol and API. We are well aware that it is not native to NoSql development and is rather a “quick way in”. On next stage, we plan to explore the options to provision [Apache TinkerPop](https://tinkerpop.incubator.apache.org/) as a well-recognized standard Graph API (to which Mongo DB also complies) to scripting services via the [Injected API](https://thuf.github.io/dirigible-io/help/api.html). We shall seek also for convenient ways to provide access to native Graph APIs of NoSql data stores with all pros and cons that go along with that.
 
 But first things first. We shall now explore what we’ve got for Mongo DB developers in Dirigible 2.2.
 
@@ -47,7 +47,7 @@ It is integrated also into the InjectedAPI and therefore in your scripting servi
 Key design notes
 ---
 
-Onboarding a Mongo DB data source leverages exactly the same integration mechanism in Dirigible as any other (relational) data source. This feature has been discussed in detail in the previous BYODS [blog](http://www.dirigible.io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html) series. The obvious advantage of this approach is that it follows an established path. That simplicity comes at the cost of a few reasonable prerequisites listed below.
+Onboarding a Mongo DB data source leverages exactly the same integration mechanism in Dirigible as any other (relational) data source. This feature has been discussed in detail in the previous BYODS [blog](https://thuf.github.io/dirigible-io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html) series. The obvious advantage of this approach is that it follows an established path. That simplicity comes at the cost of a few reasonable prerequisites listed below.
 
 JDBC API
 ----
@@ -82,7 +82,7 @@ These are all important considerations when implementing and using the result se
 Provisioning
 ---
 
-The setup of a Mongo DB data source is no different from what we already did in [Part I](http://www.dirigible.io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html), so here we shall cut short and focus only on the details that you need to provide.
+The setup of a Mongo DB data source is no different from what we already did in [Part I](https://thuf.github.io/dirigible-io/blogs/2016/01/07/blogs_dirigible_custom_ds_1.html), so here we shall cut short and focus only on the details that you need to provide.
 
 Step 1: Provision JDBC drivers classes
 ----

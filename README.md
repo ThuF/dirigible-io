@@ -1,8 +1,8 @@
-# Website of Eclipse Dirigible (dirigible-io.github.io) <img src="http://www.dirigible.io/img/dirigible.svg" align="left" height="60" width="120"> 
+# Website of Eclipse Dirigible (dirigible-io.github.io) <img src="https://thuf.github.io/dirigible-io/img/dirigible.svg" align="left" height="60" width="120"> 
 
 Eclipse Dirigible is a Cloud Development Platform providing development tools and runtime environment. The main project goal of the platform is to provide all required capabilities needed to develop and run an end-to-end meaningful vertical scenario in the cloud for the shortest time ever.
 
-Website address: [www.dirigible.io](http://www.dirigible.io).
+Website address: [www.dirigible.io](https://thuf.github.io/dirigible-io).
 
 ![ReadMe-Animation](https://github.com/dirigible-io/dirigible-io.github.io/raw/master/img/readme_animation.gif)
 
@@ -14,13 +14,13 @@ Website address: [www.dirigible.io](http://www.dirigible.io).
 - Mobile Apps Development
 - Built-in DevOps
 
-Learn about these features and many more [here](http://www.dirigible.io/features.html).
+Learn about these features and many more [here](https://thuf.github.io/dirigible-io/features.html).
 
 ## User Guide
 
-The latest documentation is available [here](http://www.dirigible.io/help/).
+The latest documentation is available [here](https://thuf.github.io/dirigible-io/help/).
 
-There is also a list of samples that you can experiment with and reuse in order to get to know the features and APIs provided by Eclipse Dirigible. For more information, go to [the samples page](http://www.dirigible.io/samples/).
+There is also a list of samples that you can experiment with and reuse in order to get to know the features and APIs provided by Eclipse Dirigible. For more information, go to [the samples page](https://thuf.github.io/dirigible-io/samples/).
 
 ## Contributing
 

@@ -128,7 +128,7 @@ Now right-click on the table again and select *Show Content* from the context me
 	<img src="/img/posts/20160107-0/1-6.png"/>
 <br>
 
-Now, let’s try how we can benefit from the new data source programmatically. Follow the implementation steps described in this dirigible [sample](http://www.dirigible.io/samples/multidb_service.html) to create a scripting service that uses the InjectedAPI to get a reference to our custom data source and print some results. Use the following source for the service:
+Now, let’s try how we can benefit from the new data source programmatically. Follow the implementation steps described in this dirigible [sample](https://thuf.github.io/dirigible-io/samples/multidb_service.html) to create a scripting service that uses the InjectedAPI to get a reference to our custom data source and print some results. Use the following source for the service:
 
 ```javascript
 

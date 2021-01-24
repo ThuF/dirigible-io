@@ -24,7 +24,7 @@ The mailing list dirigible-dev @ eclipse.org is always open to receive new ideas
 <img src="/img/posts/Dirigible_CodeWeek_Workshop_20151017_3.jpg" width="600px"/>
 <br>
 
-The presentation (in Bulgarian language) can be found [here](http://www.dirigible.io/img/posts/Dirigible_CodeWeek_Workshop_20151017.pptx)
+The presentation (in Bulgarian language) can be found [here](https://thuf.github.io/dirigible-io/img/posts/Dirigible_CodeWeek_Workshop_20151017.pptx)
 
 
 

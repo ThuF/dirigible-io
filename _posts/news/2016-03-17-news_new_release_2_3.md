@@ -20,10 +20,10 @@ New Release [2.3.160317-R](http://download.eclipse.org/dirigible/drops/R-2.3-201
 
 #### Blogs
 
-* [Develop from Mobile for Mobile](http://www.dirigible.io/blogs/2016/02/05/blogs_develop_from_mobile_for_mobile.html)
-* [Understanding Dirigible](http://www.dirigible.io/blogs/2016/02/26/blogs_understanding_dirigible.html)
-* [What’s New in Dirigible - d-kom Sofia 2016 presentation](http://www.dirigible.io/news/2016/03/01/d-kom.html)
-* [Cloud Development with Dirigible in the Eyes of a Java-saurus - EclipseCon NA 2016](http://www.dirigible.io/news/2016/03/08/eclipsecon.html)
+* [Develop from Mobile for Mobile](https://thuf.github.io/dirigible-io/blogs/2016/02/05/blogs_develop_from_mobile_for_mobile.html)
+* [Understanding Dirigible](https://thuf.github.io/dirigible-io/blogs/2016/02/26/blogs_understanding_dirigible.html)
+* [What’s New in Dirigible - d-kom Sofia 2016 presentation](https://thuf.github.io/dirigible-io/news/2016/03/01/d-kom.html)
+* [Cloud Development with Dirigible in the Eyes of a Java-saurus - EclipseCon NA 2016](https://thuf.github.io/dirigible-io/news/2016/03/08/eclipsecon.html)
 
 
 #### Operational

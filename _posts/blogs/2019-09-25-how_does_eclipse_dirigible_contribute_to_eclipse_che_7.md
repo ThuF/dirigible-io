@@ -16,13 +16,13 @@ Developers can run Eclipse Dirigible on whatever platform Eclipse Che 7 is deplo
 ### What does Eclipse Dirigible have to offer?
 
 Now, let us take a look at what this portfolio currently consists of.
-Eclipse Dirigible puts an emphasis on [low-code/no-code tools](https://www.dirigible.io/blogs/2018/12/05/you_dont_need_abs_to_model_apps.html) for developing business applications. As of version 3.4, Eclipse Dirigible provides the following tools:
+Eclipse Dirigible puts an emphasis on [low-code/no-code tools](https://thuf.github.io/dirigible-io/blogs/2018/12/05/you_dont_need_abs_to_model_apps.html) for developing business applications. As of version 3.4, Eclipse Dirigible provides the following tools:
 
 * [In-system development with server-side JavaScript](https://www.youtube.com/watch?v=NZGbQOwAlYE)
   
   You can develop backend applications using Enterprise JavaScript.
 
-* Enhanced RESTful frameworks - [RS](https://www.dirigible.io/api/http_rs.html) and [RS data](https://www.dirigible.io/api/http_rs-data.html)
+* Enhanced RESTful frameworks - [RS](https://thuf.github.io/dirigible-io/api/http_rs.html) and [RS data](https://thuf.github.io/dirigible-io/api/http_rs-data.html)
 
 * [Entity data modeler](https://www.youtube.com/watch?v=im_BMYNnLZQ)
 
@@ -30,13 +30,13 @@ Eclipse Dirigible puts an emphasis on [low-code/no-code tools](https://www.dirig
 
   ![Entity-Data-Modeler](/img/posts/20190925/dirigible_edm_che7.png){: .img-responsive }
  
-* [Business process modeler](https://www.dirigible.io/blogs/2018/12/05/you_dont_need_abs_to_model_apps.html)
+* [Business process modeler](https://thuf.github.io/dirigible-io/blogs/2018/12/05/you_dont_need_abs_to_model_apps.html)
 
   You can model process flows and implement in-system and Java tasks.
   
   ![Business-Process-Modeler](/img/posts/20190925/dirigible_bpmn_che7.png){: .img-responsive }
   
-* [Database modeler](https://www.dirigible.io/help/ide_modeler_database_schema.html)
+* [Database modeler](https://thuf.github.io/dirigible-io/help/ide_modeler_database_schema.html)
 
   You can design your own database schema with tables, views, and their relations.
 
@@ -48,7 +48,7 @@ Eclipse Dirigible puts an emphasis on [low-code/no-code tools](https://www.dirig
 
   You can create topics and queues and subscribe for events.
   
-* [Kubernetes support](https://www.dirigible.io/blogs/2018/06/25/kubernetes_keycloak_postgresql_dirigible.html)
+* [Kubernetes support](https://thuf.github.io/dirigible-io/blogs/2018/06/25/kubernetes_keycloak_postgresql_dirigible.html)
 
   For productive use cases, we recommend that you use Kubernetes, Keycloak, and PostgreSQL.
 
@@ -58,15 +58,15 @@ At Dirigible, we have decided to focus on JavaScript, because it has a small lea
 
 For business application development, which is our case, JavaScript is just a tool, which lets you consume the standardized set of Enterprise APIs that we provide. Additionally, Dirigible allows you to set the default server-side JavaScript execution as synchronous, so you could develop your service in a callback-free way. For example, some of the most popular Enterprise APIs that you can use are:
 
-* [Database](https://www.dirigible.io/api/database.html) / [Database DAO](https://www.dirigible.io/api/database_dao.html)
+* [Database](https://thuf.github.io/dirigible-io/api/database.html) / [Database DAO](https://thuf.github.io/dirigible-io/api/database_dao.html)
 
-* [HTTP Client](https://www.dirigible.io/api/http_client.html) / [HTTP Client Async](https://www.dirigible.io/api/http_client_async.html)
+* [HTTP Client](https://thuf.github.io/dirigible-io/api/http_client.html) / [HTTP Client Async](https://thuf.github.io/dirigible-io/api/http_client_async.html)
 
-* [CMIS](https://www.dirigible.io/api/cmis.html)
+* [CMIS](https://thuf.github.io/dirigible-io/api/cmis.html)
 
-* [HTTP Request](https://www.dirigible.io/api/http_request.html) / [HTTP Response](https://www.dirigible.io/api/http_response.html) / [HTTP RS](https://www.dirigible.io/api/http_rs.html)
+* [HTTP Request](https://thuf.github.io/dirigible-io/api/http_request.html) / [HTTP Response](https://thuf.github.io/dirigible-io/api/http_response.html) / [HTTP RS](https://thuf.github.io/dirigible-io/api/http_rs.html)
 
-* [BPM Process](https://www.dirigible.io/api/bpm_process.html)
+* [BPM Process](https://thuf.github.io/dirigible-io/api/bpm_process.html)
 
 ### Are there any alternatives to Eclipse Dirigible?
 
@@ -80,7 +80,7 @@ However, none of these platforms provide what Eclipse Dirigible has to offer in 
 
 Thanks to the great collaboration with the Eclipse Che team, Eclipse Dirigible is on the right way of achieving its ultimate goal, which is to provide developers of business applications with the fastest turnaround time in the Cloud and a unique user experience at the same time.
 
-So why don’t you [give it a try](https://www.dirigible.io)?
+So why don’t you [give it a try](https://thuf.github.io/dirigible-io)?
 
 If there is something that you don't like, or you think it can be improved, don't hesitate to share your [feedback](https://github.com/eclipse/dirigible/issues). The Eclipse Dirigible team will definitely appreciate it. That is one of the best things about the open-source community that we are all part of!
 

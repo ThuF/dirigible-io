@@ -8,7 +8,7 @@ New version [2.5.160804-R](http://download.eclipse.org/dirigible/drops/R-2.5-201
 
 #### Features
 
-* Enterprise JavaScript API [http://www.dirigible.io/api/index.html](http://www.dirigible.io/api/index.html)
+* Enterprise JavaScript API [https://thuf.github.io/dirigible-io/api/index.html](https://thuf.github.io/dirigible-io/api/index.html)
 	* Built-in (console)
 	* Core (assert, config, globals, context, env, threads)
 	* Database (database)
@@ -23,7 +23,7 @@ New version [2.5.160804-R](http://download.eclipse.org/dirigible/drops/R-2.5-201
 
 #### Blogs
 
-* [Why Enterprise JavaScript?](http://www.dirigible.io/blogs/2016/08/01/blogs_why_enterprise_js.html)
+* [Why Enterprise JavaScript?](https://thuf.github.io/dirigible-io/blogs/2016/08/01/blogs_why_enterprise_js.html)
 
 #### Operational
 

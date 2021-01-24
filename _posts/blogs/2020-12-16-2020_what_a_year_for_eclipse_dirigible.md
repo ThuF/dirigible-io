@@ -7,18 +7,18 @@ It has been a challenging, but in the same time an incredible year for Eclipse D
 
 ### 2020 in numbers:
 
-* 12 [releases](https://www.dirigible.io/releases.html) from 4.2 to 5.6 with 1 major [5.0](https://www.dirigible.io/release/2020/06/25/news_new_release_5_0.html)
+* 12 [releases](https://thuf.github.io/dirigible-io/releases.html) from 4.2 to 5.6 with 1 major [5.0](https://thuf.github.io/dirigible-io/release/2020/06/25/news_new_release_5_0.html)
 * 138 [issues](https://github.com/eclipse/dirigible/issues?q=is%3Aissue+is%3Aclosed) fixed
-* 11 [blog posts](https://www.dirigible.io/blogs.html)
-* 10 new [API](https://www.dirigible.io/api/) - Content, Template Engine, Execute, Lifecycle, SOAP, Websocket, Kafka Consumer, Kafka Producer, MongoDB Client, MongoDB DAO
+* 11 [blog posts](https://thuf.github.io/dirigible-io/blogs.html)
+* 10 new [API](https://thuf.github.io/dirigible-io/api/) - Content, Template Engine, Execute, Lifecycle, SOAP, Websocket, Kafka Consumer, Kafka Producer, MongoDB Client, MongoDB DAO
 * 11K+ users from 143 countries for 2020
 * 412 repositories in [DirigibleLabs](https://github.com/dirigiblelabs/) till date
 
 ### Notable new features
 
-* Packages for SAP Cloud Platfom [Neo](https://www.dirigible.io/blogs/2020/02/15/how_to_deploy_eclipse_dirigible_in_the_sap_cloud_platform_neo_environment.html), 
-[Cloud Foundry](https://www.dirigible.io/blogs/2020/02/15/how_to_deploy_eclipse_dirigible_in_the_sap_cloud_platform_cloud_foundry_environment.html) and 
-[Kyma](https://www.dirigible.io/blogs/2020/10/23/how_to_deploy_eclipse_dirigible_in_the_sap_cloud_platform_kyma_environment.html)
+* Packages for SAP Cloud Platfom [Neo](https://thuf.github.io/dirigible-io/blogs/2020/02/15/how_to_deploy_eclipse_dirigible_in_the_sap_cloud_platform_neo_environment.html), 
+[Cloud Foundry](https://thuf.github.io/dirigible-io/blogs/2020/02/15/how_to_deploy_eclipse_dirigible_in_the_sap_cloud_platform_cloud_foundry_environment.html) and 
+[Kyma](https://thuf.github.io/dirigible-io/blogs/2020/10/23/how_to_deploy_eclipse_dirigible_in_the_sap_cloud_platform_kyma_environment.html)
 * [OData v2](https://www.odata.org/documentation/odata-version-2-0/) support based on [Apache Olingo](https://olingo.apache.org/)
 * Entity Modeler improvements - calculated properties, security roles, pattern based validation, projection entity type, extension entity type
 * Form Builder based on [AngularJS](https://angularjs.org/) and [Bootstrap](https://getbootstrap.com/) introduced

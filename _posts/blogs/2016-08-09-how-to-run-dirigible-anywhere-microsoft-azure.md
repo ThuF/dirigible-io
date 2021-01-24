@@ -123,7 +123,7 @@ Bellow you can find the steps of how to deploy Eclipse Dirigible on Microsoft Az
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1SxBr155zk" frameborder="0" allowfullscreen></iframe>
 
-<a href="http://www.dirigible.io/samples/bookstore.html" target="_blank">Bookstore Sample</a>
+<a href="https://thuf.github.io/dirigible-io/samples/bookstore.html" target="_blank">Bookstore Sample</a>
 
 
 ## Enjoy!

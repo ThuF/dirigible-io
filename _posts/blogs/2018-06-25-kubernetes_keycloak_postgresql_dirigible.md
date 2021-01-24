@@ -22,7 +22,7 @@ is an open source Identity and Access Management system for applications and ser
 is a powerful open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. You can read more about PostgreSQL [here](https://www.postgresql.org/).
 
 ### _Eclipse Dirigible_
-is a Cloud Development Platform providing development tools and runtime environment. It supports full development life-cycle of on-demand applications by leveraging in-system programming models and rapid application development techniques. You can read more about Dirigible [here](http://www.dirigible.io/).
+is a Cloud Development Platform providing development tools and runtime environment. It supports full development life-cycle of on-demand applications by leveraging in-system programming models and rapid application development techniques. You can read more about Dirigible [here](https://thuf.github.io/dirigible-io/).
 
 
 ## Prerequisites
@@ -208,7 +208,7 @@ spec:
 
 > **Note:** The maximum length of the host name (e.g. _**ide.YOUR-DOMAIN-NAME**_) used for issuing Let's Encrypt certificate is 63 symbols.
 
-> The whole list of Eclipse Dirigible environment variables can be found [here](http://www.dirigible.io/help/setup_environment_variables.html)
+> The whole list of Eclipse Dirigible environment variables can be found [here](https://thuf.github.io/dirigible-io/help/setup_environment_variables.html)
 
 The whole YAML is available [here](/img/resources/yaml/dirigible.yaml). Before creating the Kubernetes resources, you should replace the placeholders with the correct values.
 

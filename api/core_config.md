@@ -14,12 +14,12 @@ Config object is used to store and manage properties in the Configuration Store.
 Version 4.x
 ---
 
-[core/configurations](http://www.dirigible.io/api/core_configurations.html)
+[core/configurations](https://thuf.github.io/dirigible-io/api/core_configurations.html)
 
 Version 3.x
 ---
 
-[core/configurations](http://www.dirigible.io/api/core_configurations.html)
+[core/configurations](https://thuf.github.io/dirigible-io/api/core_configurations.html)
 
 ---
 

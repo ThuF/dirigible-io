@@ -37,7 +37,7 @@ Let's see a few examples what we are targeting on:
 #### Database Access
 
 Very natural for a Java-saurus is to use the JDBC API for access and management of relational databases. It provides classes and methods for the manipulation of the data and the metadata. It is powerful enough and in the same time, well known, so can we reuse it?
-The module [db/database](http://www.dirigible.io/api/database.html) gives the port of the main JDBC objects for data management - Datasource, Connection, Statement, ResultSet. An example of how to query the records from a table and print the result into the response stream looks like this:
+The module [db/database](https://thuf.github.io/dirigible-io/api/database.html) gives the port of the main JDBC objects for data management - Datasource, Connection, Statement, ResultSet. An example of how to query the records from a table and print the result into the response stream looks like this:
 
 ```javascript
 
@@ -72,7 +72,7 @@ response.close();
 
 #### HTTP Communication
 
-Another very popular API used in the above example is the Servlet API giving the access from the service body to the current Request, Response and Session objects. You can find more info in the modules [net/http/request](http://www.dirigible.io/api/http_request.html), [net/http/response](http://www.dirigible.io/api/http_response.html) and [net/http/session](http://www.dirigible.io/api/http_session.html). What we decided to include also in the Enterprise JavaScript is the de facto standard component for handling of the uploaded binary files. Here is the moment to send big thanks to the Apache guys. Of course, we simplified a lot the API itself and added some utilities functions to make it convenient for the JavaScript developers:
+Another very popular API used in the above example is the Servlet API giving the access from the service body to the current Request, Response and Session objects. You can find more info in the modules [net/http/request](https://thuf.github.io/dirigible-io/api/http_request.html), [net/http/response](https://thuf.github.io/dirigible-io/api/http_response.html) and [net/http/session](https://thuf.github.io/dirigible-io/api/http_session.html). What we decided to include also in the Enterprise JavaScript is the de facto standard component for handling of the uploaded binary files. Here is the moment to send big thanks to the Apache guys. Of course, we simplified a lot the API itself and added some utilities functions to make it convenient for the JavaScript developers:
 
 ```javascript
 
@@ -101,9 +101,9 @@ response.close();
 
 ```
 
-More info can be found in module [net/http/upload](http://www.dirigible.io/api/http_upload.html).
+More info can be found in module [net/http/upload](https://thuf.github.io/dirigible-io/api/http_upload.html).
 
-We also needed an HTTP client API to call external services. This one we defined similar to jQuery, no matter it is backed by the Apache's HTTPClient. You can use the module [net/http/client](http://www.dirigible.io/api/http_client.html) to retrieve the raw data from an endpoint and print it to the response stream:
+We also needed an HTTP client API to call external services. This one we defined similar to jQuery, no matter it is backed by the Apache's HTTPClient. You can use the module [net/http/client](https://thuf.github.io/dirigible-io/api/http_client.html) to retrieve the raw data from an endpoint and print it to the response stream:
 
 ```javascript
 
@@ -138,14 +138,14 @@ var httpResponse = httpClient.get('http://services.odata.org/V4/Northwind/Northw
 
 ### WebSockets and SOAP
 
-If you need bi-directional communication channel in your use case, you can utilize the WebSockets module [net/websocket](http://www.dirigible.io/api/websocket.html). You can implement a handler for the received messages as well as to send messages back through the channel of the same session.
+If you need bi-directional communication channel in your use case, you can utilize the WebSockets module [net/websocket](https://thuf.github.io/dirigible-io/api/websocket.html). You can implement a handler for the received messages as well as to send messages back through the channel of the same session.
 
-Can we name this API "Enterprise" without including the SOAP web services? Of course, not! In the module [net/soap](http://www.dirigible.io/api/soap.html) you can find how to construct a SOAP massage in order to be able to call an external SOAP web service. You can even create your own SOAP web service! Although, we are not completely sure why you would do this, but you can.
+Can we name this API "Enterprise" without including the SOAP web services? Of course, not! In the module [net/soap](https://thuf.github.io/dirigible-io/api/soap.html) you can find how to construct a SOAP massage in order to be able to call an external SOAP web service. You can even create your own SOAP web service! Although, we are not completely sure why you would do this, but you can.
 
 
 ### Files and Streams
 
-To standardize the IO access to the underlying file system we added the module [io/files](http://www.dirigible.io/api/files.html). How to create, copy and delete a file with this module is shown below:
+To standardize the IO access to the underlying file system we added the module [io/files](https://thuf.github.io/dirigible-io/api/files.html). How to create, copy and delete a file with this module is shown below:
 
 ```javascript
 
@@ -157,12 +157,12 @@ files.delete("../temp/file2.txt");
 
 You can also read, write and inspect the file and folders attributes.
 
-Reading from and writing to streams, for example, memory byte arrays, is possible via the module [net/streams](http://www.dirigible.io/api/streams.html).
+Reading from and writing to streams, for example, memory byte arrays, is possible via the module [net/streams](https://thuf.github.io/dirigible-io/api/streams.html).
 
 
 ### Indexing, Messaging, Mail...
 
-The modules under the main package **service** e.g. [service/indexing](http://www.dirigible.io/api/indexing.html), [service/messaging](http://www.dirigible.io/api/messaging.html), and so on represents the underlying platform services. These services, as well as their management and operation, are usually provided by the platform on which Eclipse Dirigible is running. The quality and the performance of the services themselves can differ depending on the platform provider, but the goal here is to provide a unified manner of using such standard services, or at least the common denominator of their capabilities.
+The modules under the main package **service** e.g. [service/indexing](https://thuf.github.io/dirigible-io/api/indexing.html), [service/messaging](https://thuf.github.io/dirigible-io/api/messaging.html), and so on represents the underlying platform services. These services, as well as their management and operation, are usually provided by the platform on which Eclipse Dirigible is running. The quality and the performance of the services themselves can differ depending on the platform provider, but the goal here is to provide a unified manner of using such standard services, or at least the common denominator of their capabilities.
 
 For instance if you want to create a free text search index, you can do it like this:
 
@@ -215,7 +215,7 @@ Eclipse Dirigible provides default sample implementations of all the service API
 
 ### Utilities
 
-Another set of modules under the package **utils**, provides some commodity functionality backed mainly by the Apache Commons - [utils/base64](http://www.dirigible.io/api/utils_base64.html), [utils/digest](http://www.dirigible.io/api/utils_digest.html), [utils/hex](http://www.dirigible.io/api/utils_hex.html), etc.
+Another set of modules under the package **utils**, provides some commodity functionality backed mainly by the Apache Commons - [utils/base64](https://thuf.github.io/dirigible-io/api/utils_base64.html), [utils/digest](https://thuf.github.io/dirigible-io/api/utils_digest.html), [utils/hex](https://thuf.github.io/dirigible-io/api/utils_hex.html), etc.
 
 ```javascript
 
@@ -233,7 +233,7 @@ response.close();
 
 ### Threads
 
-What would you say to have thread management API in JavaScript? This is missing even in the most popular - Node.js framework. In the Enterprise JavaScript module [core/threads](http://www.dirigible.io/api/threads.html) you can use a simple function as a "runnable" object. You can start/stop new threads, wait and notify locks and even use of synchronized functions.
+What would you say to have thread management API in JavaScript? This is missing even in the most popular - Node.js framework. In the Enterprise JavaScript module [core/threads](https://thuf.github.io/dirigible-io/api/threads.html) you can use a simple function as a "runnable" object. You can start/stop new threads, wait and notify locks and even use of synchronized functions.
 
 ```javascript
 

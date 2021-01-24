@@ -19,7 +19,7 @@ group: simple
 var url = require("utils/v4/url");
 var response = require("http/v4/response");
 
-var input = "http://www.dirigible.io/";
+var input = "https://thuf.github.io/dirigible-io/";
 var result = url.encode(input, "UTF-8");
 
 console.log("Encoded URL: " + result);

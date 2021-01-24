@@ -257,9 +257,9 @@ To all these questions, the answer is simple: **_Yes_**, you can do it!
 
 ## Resources
 
-- Site: [http://www.dirigible.io](http://www.dirigible.io)
-- Help: [http://www.dirigible.io/help/](http://www.dirigible.io/help/)
-- API: [http://www.dirigible.io/api/](http://www.dirigible.io/api/)
+- Site: [https://thuf.github.io/dirigible-io](https://thuf.github.io/dirigible-io)
+- Help: [https://thuf.github.io/dirigible-io/help/](https://thuf.github.io/dirigible-io/help/)
+- API: [https://thuf.github.io/dirigible-io/api/](https://thuf.github.io/dirigible-io/api/)
 - YouTube: [https://www.youtube.com/c/dirigibleio](https://www.youtube.com/c/dirigibleio)
 - Facebook: [https://www.facebook.com/dirigible.io](https://www.facebook.com/dirigible.io)
 - Twitter: [https://twitter.com/dirigible_io](https://twitter.com/dirigible_io)

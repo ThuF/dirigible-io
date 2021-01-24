@@ -11,7 +11,7 @@ HCP and its related toolset and entry points.
 One option was to block some time to learn how to make use of HCP cockpit and tools and essentially halt the development during this period.
 
 
-On the other hand there is Dirigible [http://www.dirigible.io/](http://www.dirigible.io/).
+On the other hand there is Dirigible [https://thuf.github.io/dirigible-io/](https://thuf.github.io/dirigible-io/).
 
 
 <a href="http://scn.sap.com/servlet/JiveServlet/downloadImage/38-111581-512604/446-400/dirigible-dbperspective.png"><img alt="show_view.png" class="jive-image" src="http://scn.sap.com/servlet/JiveServlet/downloadImage/38-111581-512604/446-400/dirigible-dbperspective.png"></a>

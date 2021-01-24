@@ -19,7 +19,7 @@ Our choice for using the Orion editor as the primary editor in Dirigible is base
 Why Tern.js?
 ----
 
-Tern.js is a code-analysis and code-completion library for JavaScript. It can run both on client-side and on server-side. In order to achive real time proposals and to remove the overhead from server communication, in Dirigible we use Tern.js as a client-side library. In addition to the JavaScript code-completion, Tern.js allows to introduce custom suggestions - the way to integrate and allow code-completion for [Dirigible API](http://www.dirigible.io/help/api.html).
+Tern.js is a code-analysis and code-completion library for JavaScript. It can run both on client-side and on server-side. In order to achive real time proposals and to remove the overhead from server communication, in Dirigible we use Tern.js as a client-side library. In addition to the JavaScript code-completion, Tern.js allows to introduce custom suggestions - the way to integrate and allow code-completion for [Dirigible API](https://thuf.github.io/dirigible-io/help/api.html).
 
 <br>
 <img src="/img/posts/injected_api_code_completion.png" width="700px"/>
@@ -60,7 +60,7 @@ By using [RAP](https://www.eclipse.org/rap/) scripting capabilities for callback
 What about Debugging?
 ----
 
-Last but not least, here comes the integrated [debuggier](http://www.dirigible.io/help/debugger.html) in Dirigible. This was not so easy and trivial part, but finally the Dirigible's debugger uses the Orion editor.
+Last but not least, here comes the integrated [debuggier](https://thuf.github.io/dirigible-io/help/debugger.html) in Dirigible. This was not so easy and trivial part, but finally the Dirigible's debugger uses the Orion editor.
 
 Client-side integration
 -----

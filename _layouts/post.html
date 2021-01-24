@@ -1,8 +1,8 @@
 {% include head_blue.html %}
 
 	<ol class="breadcrumb">
-	  <li><a href="https://thuf.github.io/dirigible-io.github.io/">Home</a></li>
-	  <li><a href="https://thuf.github.io/dirigible-io.github.io/blogs.html">Blogs</a></li>
+	  <li><a href="https://thuf.github.io/dirigible-io/">Home</a></li>
+	  <li><a href="https://thuf.github.io/dirigible-io/blogs.html">Blogs</a></li>
 	  <li class="active">{{ page.title }}</li>
 	</ol>
 	<div class="container">
@@ -11,7 +11,7 @@
 			<header>
 				<h1>{{ page.title }}</h1>
 				{% if author %}
-				<img class="img-responsive" src="https://thuf.github.io/dirigible-io.github.io/{{ author.avatar }}" role="presentation" style="border-radius: 50%;">
+				<img class="img-responsive" src="https://thuf.github.io/dirigible-io/{{ author.avatar }}" role="presentation" style="border-radius: 50%;">
 				<br>
 				<sub class="post-info">{{ page.date | date: "%B %-d, %Y"}} by {{ author.name }}</sub>
 				{% else %}

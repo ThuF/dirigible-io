@@ -56,7 +56,7 @@ For instance:
 
 <div class="btn-toolbar pull-left">
 	<a class="btn btn-warning" href="http://dirigible.eclipse.org/services/ui/anonymous.html?git={{ page.git }}.git">Run</a>
-	<a class="btn btn-info" href="http://www.dirigible.io/api/index.html">API</a>
+	<a class="btn btn-info" href="https://thuf.github.io/dirigible-io/api/index.html">API</a>
 </div>
 
 <br><br>
